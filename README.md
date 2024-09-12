@@ -1,7 +1,7 @@
 # Nazm (نَظْمْ)
  
  <p align="center"> 
- <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/logo.png" width = "200px"/>
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/logo.png" width = "200px"/>
  </p>
 
 **Nazm نَظْمْ** is a comprehensive system designed to process Arabic poetry, providing a rich repository of linguistic tools and resources. The system includes an extensive collection of Application Programming Interfaces (APIs) that offer a wide range of functionalities, organized into three main modules.
@@ -11,7 +11,7 @@
 - **Morphological and Syntactic Analysis**: This tool offers precise extraction of morphological features and accurate part-of-speech tagging. It also provides sentence parsing according to classical Arabic grammatical traditions *(i’rab إعراب)* while supporting modern syntactic theories like Dependency-constituency parsing. Additionally, it addresses elliptical sentence constructions by offering visual representations that highlight word and sentence connections.
 
  <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/ArapicPoemsParsing.png" width = "1000px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/ArapicPoemsParsing.png" width = "1000px"/>
  </p>
 
 ## Module 2: Automated and Customized Arabic Poetry Generation
@@ -19,7 +19,7 @@
 - **Automated Generation**: This advanced tool generates Arabic poetry based on various parameters, including the type of poetic form (e.g., Qasida, Muwashah, Doublet), rhyme scheme, poetic meter, theme, era, and even emulation of a specific poet’s style. This functionality allows for the creation of innovative poetry or the emulation of traditional styles, tailored to user preferences.
 
  <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/Poetry_Generation_example.png" width = "800px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/Poetry_Generation_example.png" width = "800px"/>
  </p>
 
 ## Module 3: Comprehensive Prosody Analysis of Poetry
@@ -27,7 +27,7 @@
 - **Prosody Analysis**: A specialized tool for analyzing poetic meter, which includes text formation, recognition of poetic meters, scansion, identification of metrical feet (taf’ilat), and detection of metrical and rhyme errors. It also evaluates rhyme schemes and identifies their flaws.
 
 <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/Poetry_Analysis_example.png" width = "800px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/Poetry_Analysis_example.png" width = "800px"/>
  </p>
 
 ## Methodology
@@ -73,7 +73,7 @@ Data availability and quality are crucial for fine-tuning models. We have prepar
     - The diagram below illustrates the analytical information and classifications within the morphological layer.
     *Diagram illustrating the analytical information and classifications of the morphological layer.*
 <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/Morphological_Analysis_categories.png" width = "800px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/Morphological_Analysis_categories.png" width = "800px"/>
  </p>
 
   - **Syntactic Layer**:
@@ -83,19 +83,19 @@ Data availability and quality are crucial for fine-tuning models. We have prepar
     *Diagram illustrating the analytical information and classifications of the syntactic layer.*
 
  <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/Grammatical_Analysis.png" width = "1000px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/Grammatical_Analysis.png" width = "1000px"/>
  </p>
 
 - **Module 2: Automated Poetry Generation**: The largest poetic corpus was compiled from various poetry data repositories. The corpus contains over half a million poems and approximately 15 million individual verses. Classification algorithms were employed to categorize the poetry into multiple genres.
 
  <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/Poems_Analysis.png" width = "800px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/Poems_Analysis.png" width = "800px"/>
  </p>
 
 - **Module 3: Prosody Analysis**: A rule-based system was developed for prosody analysis according to the well-known rules of Khalil ibn Ahmad al-Farahidi for classical Arabic poetry. Based on this system, we are building a prosody pattern corpus and a prosody dataset containing around fifty thousand verses, analyzed and reviewed by volunteer linguists.
 
 <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/test1/main/images/Arabic_poetry_categories.png" width = "1000px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Nazm/main/images/Arabic_poetry_categories.png" width = "1000px"/>
  </p>
 
 Grammatical_Analysis
