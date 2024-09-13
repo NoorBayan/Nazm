@@ -172,211 +172,102 @@ Poetry is generated according to various categories:
 
 - **Poet Emulation**: Generates poetry in the style of a specific poet, replicating their writing pattern.
 
-## Nazm Demo
+## Nazm Demo & Open Source
 
-You can explore the system’s services via the Google Colab Notebook provided below:
+## Nazm Demo & Open Source
+
+You can explore the system’s services via the Google Colab Notebook and the corresponding GitHub Repository provided below:
 
 <table class="noor">
-
   <tr>
     <th class="nazm"><b>Name</b></th>
     <th class="nazm"><b>Notebook</b></th>
-  </tr>
-  
-  <tr>
-    <td class="nazm"> The Extensive Poetic Corpus </td>
-    <td class="nazm">
-    <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" >
-    </a></td>
-  </tr>
-  
-  <tr>
-    <td class="nazm"> Prosody Pattern Corpus </td>
-    <td class="nazm">
-    <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" >
-    </a></td>
-
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l"> Poems Treebank </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1SWn-HwRnyX8Zt4RVbk2qIWjeqV3EU77K?usp=drive_link">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l">Morphological Analysis</td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1fKwqLa36URBretES59-re6Bkmu1E8hAY?usp=drive_link">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-
-  
-  <tr>
-    <td class="tg-yw4l"> Syntactic Parsing </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1baA8h04oe-wcVjKpBAMtoHxcpP1J1WIQ?usp=drive_link">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l"> Poetic Form-Based Generation </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l"> Multi-Parameter Classical Poetry Generation </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l"> Poet Emulation </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l"> Prosody Analysis </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l"> Poems multi-classification </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
-   
-  <tr>
-    <td class="tg-yw4l"> Poems Analysis </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"  >
-    </a></td>
-  </tr>
- 
-<table>
-
-
-## Nazm open source
-
-You can explore the system’s services via the Google Colab Notebook provided below:
-
-
-<table class="noor">
-
-  <tr>
-    <th class="nazm"><b>Name</b></th>
     <th class="nazm"><b>Repository</b></th>
   </tr>
   
   <tr>
-    <td class="nazm"> The Extensive Poetic Corpus </td>
+    <td class="nazm"> Diwan </td>
     <td class="nazm">
-    <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
-    </a></td>
-  </tr>
-  
-  <tr>
-    <td class="nazm"> Prosody Pattern Corpus </td>
+      <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
     <td class="nazm">
-    <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
-    </a></td>
-
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l"> Poems Treebank </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1SWn-HwRnyX8Zt4RVbk2qIWjeqV3EU77K?usp=drive_link">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l">Morphological Analysis</td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1fKwqLa36URBretES59-re6Bkmu1E8hAY?usp=drive_link">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
-  </tr>
-
-  
-  <tr>
-    <td class="tg-yw4l"> Syntactic Parsing </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1baA8h04oe-wcVjKpBAMtoHxcpP1J1WIQ?usp=drive_link">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l"> Poetic Form-Based Generation </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
-  </tr>
-
-  <tr>
-    <td class="tg-yw4l"> Multi-Parameter Classical Poetry Generation </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
+      <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
+        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
+      </a>
+    </td>
   </tr>
   
   <tr>
-    <td class="tg-yw4l"> Poet Emulation </td>
-    <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
+    <td class="nazm"> Bohor </td>
+    <td class="nazm">
+      <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="nazm">
+      <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
+        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
+      </a>
+    </td>
   </tr>
-  
+
   <tr>
-    <td class="tg-yw4l"> Prosody Analysis </td>
+    <td class="tg-yw4l"> Tafilat </td>
     <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
+      <a href="https://colab.research.google.com/drive/1SWn-HwRnyX8Zt4RVbk2qIWjeqV3EU77K?usp=drive_link">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="tg-yw4l">
+      <a href="https://colab.research.google.com/drive/1SWn-HwRnyX8Zt4RVbk2qIWjeqV3EU77K?usp=drive_link">
+        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
+      </a>
+    </td>
   </tr>
-  
+
   <tr>
-    <td class="tg-yw4l"> Poems multi-classification </td>
+    <td class="tg-yw4l"> Awzan </td>
     <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
+      <a href="https://colab.research.google.com/drive/1fKwqLa36URBretES59-re6Bkmu1E8hAY?usp=drive_link">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="tg-yw4l">
+      <a href="https://colab.research.google.com/drive/1fKwqLa36URBretES59-re6Bkmu1E8hAY?usp=drive_link">
+        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
+      </a>
+    </td>
   </tr>
-   
+
   <tr>
-    <td class="tg-yw4l"> Poems Analysis </td>
+    <td class="tg-yw4l"> Bayan </td>
     <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
-    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github"  >
-    </a></td>
+      <a href="https://colab.research.google.com/drive/1baA8h04oe-wcVjKpBAMtoHxcpP1J1WIQ?usp=drive_link">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="tg-yw4l">
+      <a href="https://colab.research.google.com/drive/1baA8h04oe-wcVjKpBAMtoHxcpP1J1WIQ?usp=drive_link">
+        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
+      </a>
+    </td>
   </tr>
- 
-<table>
+
+  <tr>
+    <td class="tg-yw4l"> Frahidi </td>
+    <td class="tg-yw4l">
+      <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="tg-yw4l">
+      <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
+        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
+      </a>
+    </td>
+  </tr>
+
+</table>
 
