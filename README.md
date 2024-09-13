@@ -188,7 +188,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm"> Diwan </td>
     <td class="nazm">The largest dataset of Arabic poetry with half a million poems and 15 million verses, covering diverse poetic forms and themes.</td>
     <td class="nazm">
-      <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
+      <a href="https://github.com/NoorBayan/Diwan">
         <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
       </a>
     </td>
@@ -203,7 +203,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm"> Bohor </td>
     <td class="nazm">System for extracting and analyzing metrical patterns in Arabic poetry using advanced modeling techniques.</td>
     <td class="nazm">
-      <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
+      <a href="https://github.com/NoorBayan/Bohor">
         <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
       </a>
     </td>
@@ -218,7 +218,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm"> Tafilat </td>
     <td class="nazm">Comprehensive dataset of Arabic poetic meter patterns, ideal for research and poetry generation.</td>
     <td class="nazm">
-      <a href="https://colab.research.google.com/drive/1SWn-HwRnyX8Zt4RVbk2qIWjeqV3EU77K?usp=drive_link">
+      <a href="https://github.com/NoorBayan/Tafilat">
         <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
       </a>
     </td>
@@ -233,7 +233,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm"> Awzan </td>
     <td class="nazm">Dataset offering detailed metrical patterns for classical Arabic poetry, essential for accurate poetic analysis.</td>
     <td class="nazm">
-      <a href="https://colab.research.google.com/drive/1fKwqLa36URBretES59-re6Bkmu1E8hAY?usp=drive_link">
+      <a href="https://github.com/NoorBayan/Awzan">
         <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
       </a>
     </td>
@@ -248,7 +248,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm"> Bayan </td>
     <td class="nazm">Annotated treebank for syntactic analysis of Arabic poetry, enhancing the study of linguistic structure in poems.</td>
     <td class="nazm">
-      <a href="https://colab.research.google.com/drive/1baA8h04oe-wcVjKpBAMtoHxcpP1J1WIQ?usp=drive_link">
+      <a href="https://github.com/NoorBayan/Bayan">
         <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
       </a>
     </td>
@@ -263,7 +263,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm"> Frahidi </td>
     <td class="nazm">System for prosodic analysis of Arabic poetry, generating datasets for training AI models on prosodic features.</td>
     <td class="nazm">
-      <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
+      <a href="https://github.com/NoorBayan/Frahidi">
         <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" >
       </a>
     </td>
