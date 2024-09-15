@@ -182,6 +182,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <th class="nazm"><b>Description</b></th>
     <th class="nazm"><b>Repository</b></th>
     <th class="nazm"><b>Notebook</b></th>
+    <th class="nazm"><b>YouTube Video</b></th>
   </tr>
   
   <tr>
@@ -195,6 +196,11 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm">
       <a href="https://colab.research.google.com/drive/1fRqDemaxeBPo_3fifr4o7uKyGho_9y8n?usp=drive_link">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="nazm">
+      <a href="https://www.youtube.com/watch?v=DiwanExplanation">
+        <img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" >
       </a>
     </td>
   </tr>
@@ -212,6 +218,11 @@ You can explore the system’s services via the Google Colab Notebook and the co
         <img src="https://colab.research.google.com/assets/colab-badge.svg" >
       </a>
     </td>
+    <td class="nazm">
+      <a href="https://www.youtube.com/watch?v=BohorExplanation">
+        <img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" >
+      </a>
+    </td>
   </tr>
 
   <tr>
@@ -225,6 +236,11 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm">
       <a href="https://colab.research.google.com/drive/1SWn-HwRnyX8Zt4RVbk2qIWjeqV3EU77K?usp=drive_link">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="nazm">
+      <a href="https://www.youtube.com/watch?v=TafilatExplanation">
+        <img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" >
       </a>
     </td>
   </tr>
@@ -242,6 +258,11 @@ You can explore the system’s services via the Google Colab Notebook and the co
         <img src="https://colab.research.google.com/assets/colab-badge.svg" >
       </a>
     </td>
+    <td class="nazm">
+      <a href="https://www.youtube.com/watch?v=AwzanExplanation">
+        <img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" >
+      </a>
+    </td>
   </tr>
 
   <tr>
@@ -257,6 +278,11 @@ You can explore the system’s services via the Google Colab Notebook and the co
         <img src="https://colab.research.google.com/assets/colab-badge.svg" >
       </a>
     </td>
+    <td class="nazm">
+      <a href="https://www.youtube.com/watch?v=BayanExplanation">
+        <img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" >
+      </a>
+    </td>
   </tr>
 
   <tr>
@@ -270,6 +296,11 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <td class="nazm">
       <a href="https://colab.research.google.com/drive/1GVoKSz4eU6urT8Qji64a647GTxykKWhz?usp=sharing">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" >
+      </a>
+    </td>
+    <td class="nazm">
+      <a href="https://www.youtube.com/watch?v=FrahidiExplanation">
+        <img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" >
       </a>
     </td>
   </tr>
