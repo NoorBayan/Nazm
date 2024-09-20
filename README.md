@@ -59,7 +59,7 @@ Data availability and quality are crucial for fine-tuning models. We have prepar
   | Morphological Layer     | Completed         | Expanded and corrected                                |
   | Syntactic Layer         | Fully Developed   | Manual review conducted, achieving a gold standard     |
 
-  The data layers in the [new Corpus dataset](https://github.com/username/quranic-corpus) have been significantly enhanced to provide comprehensive information necessary for the research community when utilizing this linguistic corpus. These enhancements focus on orthographic, morphological, and syntactic representations of texts, including:
+  The data layers in the [new Corpus dataset](https://github.com/NoorBayan/Quranic) have been significantly enhanced to provide comprehensive information necessary for the research community when utilizing this linguistic corpus. These enhancements focus on orthographic, morphological, and syntactic representations of texts, including:
 
   - **Orthographic Layer**:
     - An **Imlaai script** has been incorporated to align with classical Arabic texts, replacing the Uthmani script that previously limited the generalization of model results.
@@ -117,7 +117,6 @@ Each fine-tuned model undergoes evaluation.
 
 A data visualization model was developed to provide interactive visual representations of output, illustrating word connections using Scalable Vector Graphics (SVG). This feature enhances users’ understanding of analyses and facilitates easy interpretation of results.
 
-  ![Figure 5: Interactive Data Visualization Example](https://via.placeholder.com/600x400?text=Figure+5%3A+Interactive+Data+Visualization+Example)
 
 ## Contributions
 
@@ -142,21 +141,17 @@ A data visualization model was developed to provide interactive visual represent
 
 - **Linguistic Parsing API**: Offers detailed syntactic analysis of poetic texts, with visual representation based on modern linguistic theories while adhering closely to traditional Arabic grammar.
 
-  ![Figure 6: Linguistic Parsing Visualization](https://via.placeholder.com/600x400?text=Figure+6%3A+Linguistic+Parsing+Visualization)
 
 - **Hybrid Dependency-Constituency Syntactic Analysis**: Provides a hybrid analysis that aligns with Arabic syntactic rules.
 
-  ![Figure 7: Dependency-Constituency Hybrid Analysis](https://via.placeholder.com/600x400?text=Figure+7%3A+Dependency-Constituency+Hybrid+Analysis)
 
 - **Elliptical Structure Analysis**: Analyzes elliptical structures prevalent in Arabic poetry, detecting hidden and omitted pronouns, as well as inferred words according to Arabic grammar.
 
-  ![Figure 8: Elliptical Structure Analysis](https://via.placeholder.com/600x400?text=Figure+8%3A+Elliptical+Structure+Analysis)
 
 ### Morphological Analysis API
 
 - **Morphological Analysis API**: Delivers detailed morphological analysis of Arabic poetic texts, including root extraction and comprehensive morphological features.
 
-  ![Figure 9: Morphological Analysis Visualization](https://via.placeholder.com/600x400?text=Figure+9%3A+Morphological+Analysis+Visualization)
 
 ### Poems Generation APIs
 
@@ -164,11 +159,9 @@ Poetry is generated according to various categories:
 
 - **Poetic Form-Based Generation**: Generates poetry according to different modern poetic forms (e.g., prose, folk, free verse, epic, thematic poetry).
 
-  ![Figure 10: Poetic Form-Based Generation](https://via.placeholder.com/600x400?text=Figure+10%3A+Poetic+Form-Based+Generation)
 
 - **Multi-Parameter Classical Poetry Generation**: Generates classical poetry based on multiple parameters such as poetic meter, rhyme, theme, and era.
 
-  ![Figure 11: Multi-Parameter Poetry Generation](https://via.placeholder.com/600x400?text=Figure+11%3A+Multi-Parameter+Poetry+Generation)
 
 - **Poet Emulation**: Generates poetry in the style of a specific poet, replicating their writing pattern.
 
@@ -182,7 +175,7 @@ You can explore the system’s services via the Google Colab Notebook and the co
     <th class="nazm"><b>Description</b></th>
     <th class="nazm"><b>Repository</b></th>
     <th class="nazm"><b>Notebook</b></th>
-    <th class="nazm"><b>YouTube Video</b></th>
+    <th class="nazm"><b>YouTube</b></th>
   </tr>
   
   <tr>
